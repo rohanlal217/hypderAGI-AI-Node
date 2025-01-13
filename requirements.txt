@@ -9,3 +9,4 @@ flask>=3.0.3
 nacos-sdk-python>=0.1.14
 eth-utils>=4.1.1
 xformers>=0.0.26.post1
+huggingface_hub>=0.15
